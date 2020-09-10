@@ -10,7 +10,7 @@
 
 ### Review
 
-![image](https://github.com/BuiHongChien/resume-layout/blob/master/resume.png)
+![image](https://github.com/BuiHongChien/resume-layout/blob/master/assets/images/resume.png)
 
 **##Step by step:**
 
@@ -19,7 +19,7 @@
 - Create a folder contain all our files (index.html, outline.css)
 - Design your site graph in [Diagrams](https://www.diagrams.net/)
 
-![graph](https://github.com/BuiHongChien/resume-layout/blob/master/graph.png)
+![graph](https://github.com/BuiHongChien/resume-layout/blob/master/assets/images/graph.png)
 - Do not forget add your .css file and [link](https://kit.fontawesome.com/a076d05399.js) to use icon and text font into head tag your .html file:
 
 <head>
