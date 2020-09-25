@@ -12,7 +12,7 @@
 
 ![image](https://github.com/BuiHongChien/resume-layout/blob/master/assets/images/resume.png)
 
-**##Step by step:**
+## **Step by step:**
 
 - Install [VScode](https://code.visualstudio.com/)
 - Install VScode [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css#review-details) extension
