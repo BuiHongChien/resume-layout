@@ -10,7 +10,7 @@
 
 ### Review
 
-![image](https://github.com/BuiHongChien/resume-layout/blob/master/assets/images/resume.png)
+![image](https://github.com/BuiHongChien/resume-layout/blob/master/assets/images/demo-resume.gif)
 
 ## **Step by step:**
 
