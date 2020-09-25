@@ -5,8 +5,6 @@ header {
   justify-content: space-around;
   width: 100%;
   height: 150px;
-  max-height: 300px;
-  text-align: center;
 }
 
 header i{
@@ -17,27 +15,17 @@ header i{
     font-size: 40px;
 }
 
-.info {
+.info{
   display: flex;
   justify-content: space-around;
   width: 50%;
-  margin: auto;
   color: #5c2b4d;
-  display: flex;
-}
-
-.contact {
-  display: flex;
-  justify-content: space-around;
-  width: 50%;
-  color: #532a48;
 }
 
 ul {
   list-style-type: none;
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
   justify-content: space-around;
 }
 
@@ -48,12 +36,9 @@ li {
 .avatar {
   border: 5px solid;
   border-color: #46283f;
-  display: flex;;
   border-radius: 50%;
   width: 124px;
-  max-width: 150px;
-  display: inline-block;
-  margin: 0 auto;
+  margin: 10px ;
 }
 
 a {
@@ -72,7 +57,6 @@ a:link {
 
 main{
     font-family: 'Sniglet';
-    color:#522845;
 }
 
 main i{
@@ -124,8 +108,7 @@ main i{
 
 .grid-div {
   background-color: #e0ccdb;
-  border-radius: 10%;
-  border: 3px solid #532a48;
+  border-radius: 25px;
 }
 
 .grid-detail{
@@ -134,7 +117,6 @@ main i{
 
 .grid-title{
     font-size:32px;
-    font-weight: 3px;
     display: flex;
     justify-content: space-between;
 }
@@ -154,7 +136,6 @@ main i{
 
 .grid-content-quote{
     font-size: 28px;
-    text-align: text;
     font-family: 'Srisakdi';
     text-align: center;
 }
